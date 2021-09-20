@@ -2,7 +2,7 @@
 
 Cloud 21 is a start up company, specializing in Cloud computing.
 
-For more details about our company, check out our Wiki!
+For more details about our company, check out our [Wiki!](https://github.com/bnguy56/Cloud21/wiki)
 
 Cloud 21 is a group project for CS230. We are Group 4, and the project is Entreprenuerism &amp; Ethics Project.
 
